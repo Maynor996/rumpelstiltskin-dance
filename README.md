@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://rumpelstiltskindance.video"><img src="https://img.shields.io/badge/Live-rumpelstiltskindance.video-e8a317?style=for-the-badge" alt="Live" /></a>
-  <a href="https://xianyu110.github.io/rumpelstiltskin-dance/"><img src="https://img.shields.io/badge/GitHub%20Pages-promo-111111?style=for-the-badge" alt="Pages" /></a>
+  <a href="https://Maynor996.github.io/rumpelstiltskin-dance/"><img src="https://img.shields.io/badge/GitHub%20Pages-promo-111111?style=for-the-badge" alt="Pages" /></a>
 </p>
 
 ---
@@ -61,8 +61,8 @@
 ## Links
 
 - 官网：https://rumpelstiltskindance.video
-- GitHub Pages：https://xianyu110.github.io/rumpelstiltskin-dance/
-- 仓库：https://github.com/xianyu110/rumpelstiltskin-dance
+- GitHub Pages：https://Maynor996.github.io/rumpelstiltskin-dance/
+- 仓库：https://github.com/Maynor996/rumpelstiltskin-dance
 
 ---
 
